@@ -1,4 +1,4 @@
-## Military-Surplus-Gear
+## Military Surplus Gear
 
 County-level data showing military equipment given to state and local law enforcement agencies through the Defense Department's 1033 program. The data was received from the Defense Department in May 2014, and includes transfers since 2006.
 
