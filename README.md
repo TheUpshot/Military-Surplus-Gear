@@ -6,10 +6,6 @@ County-level data showing military equipment given to state and local law enforc
 
 [Download the Excel file](https://github.com/TheUpshot/Military-Surplus-Gear/raw/master/1033-program-foia-may-2014.xlsx)
 
-#### Files
-
-* *1033-program-foia-may-2014.xlsx* - Excel file as received
-
 #### Stories
 
 * [War Gear Flows to Police Departments](http://www.nytimes.com/2014/06/09/us/war-gear-flows-to-police-departments.html)
