@@ -4,6 +4,8 @@ County-level data showing military equipment given to state and local law enforc
 
 **Important**: There is no information about which agency received a given piece of equipment. Items that went to a county could have been given to a state agency based in that county, for example.
 
+This data **does not represent all of the military-style gear that law enforcement agencies have**. Agencies also purchase equipment with their own money or with federal grants. 
+
 [Download the original Excel file](https://github.com/TheUpshot/Military-Surplus-Gear/raw/master/1033-program-foia-may-2014.xlsx)
 
 #### Stories
