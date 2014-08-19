@@ -1,10 +1,10 @@
 ## Military Surplus Gear
 
-County-level data showing military equipment given to state and local law enforcement agencies through the Defense Department's 1033 program. The data was received from the Defense Department in May 2014, and includes transfers since 2006.
+County-level data showing military equipment given to state and local law enforcement agencies through the Defense Department's 1033 program. The data was received from the Defense Department in May 2014 as an Excel file, and includes transfers since 2006.
 
 **Important**: There is no information about which agency received a given piece of equipment. Items that went to a county could have been given to a state agency based in that county, for example.
 
-[Download the Excel file](https://github.com/TheUpshot/Military-Surplus-Gear/raw/master/1033-program-foia-may-2014.xlsx)
+[Download the original Excel file](https://github.com/TheUpshot/Military-Surplus-Gear/raw/master/1033-program-foia-may-2014.xlsx)
 
 #### Stories
 
