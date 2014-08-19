@@ -12,7 +12,6 @@ County-level data showing military equipment given to state and local law enforc
 
 * [War Gear Flows to Police Departments](http://www.nytimes.com/2014/06/09/us/war-gear-flows-to-police-departments.html)
 * [Mapping the Spread of the Military's Surplus Gear](http://www.nytimes.com/interactive/2014/08/15/us/surplus-military-equipment-map.html)
-* Reporter Matt Apuzzo explains the data
 
 #### Resources
 
