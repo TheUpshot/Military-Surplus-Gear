@@ -1,4 +1,4 @@
-This is a file of the interesting finds people have made in the data.
+A File of Interesting Finds People Have Made
 =====================================================================
 Feel free to contribute but please document your finds reproducibly (line numbers, formulas, SQL statements, etc).
 
